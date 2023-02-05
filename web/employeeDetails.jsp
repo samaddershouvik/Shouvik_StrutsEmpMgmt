@@ -1,7 +1,7 @@
 <%-- 
     Document   : landingPage
     Created on : 22-Dec-2022, 12:00:33 PM
-    Author     : Avijit Chattopadhyay
+    Author     : Shouvik Samadder
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
